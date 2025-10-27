@@ -21,7 +21,7 @@ Created by Davide Mastromatteo on 2024-07-08.")
 
 (custom-theme-set-faces
  'sixcolors
- '(default ((t (:foreground "ivory" :background "gray10" :stipple nil :inherit nil))))
+ '(default ((t (:foreground "#C4C0AA" :background "gray6" :stipple nil :inherit nil))))
  '(cursor ((t (:foreground "#000000" :background "#f78200"))))
  '(escape-glyph ((t (:foreground "#009cdf"))))
  '(homoglyph ((t (:foreground "#009cdf"))))
